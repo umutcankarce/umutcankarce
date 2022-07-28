@@ -19,4 +19,4 @@ Software Technology : <br />
 [ Project ]
 + innovacraft.com / Freelance Part-Time Work
 + [ CRM innovacraft SaaS Project ]
-+ [ Active Project / innovacraft CRM Development Mode ]
++ [ Active Project / innovacraft CRM Development Mode Laravel 9 and Vue.js 3 ]
