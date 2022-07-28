@@ -17,6 +17,6 @@ Software Technology : <br />
 + Laravel Sanctum API etc.
 
 [ Project ]
-+ innovacraft.com / Freeşance Part-Time Work
++ innovacraft.com / Freelance Part-Time Work
 + [ CRM innovacraft SaaS Project ]
 + [ Active Project / innovacraft CRM Development Mode ]
