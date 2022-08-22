@@ -1,9 +1,9 @@
 ### Hello, my Umut Can 👋
 
-Software Role : Back-end PHP Developer innovacraft 
+Back-end PHP Developer [innovacraft](https://innovacraft.com) 
 
 Contact Info : <br />
-LinkedIn Profile : in/umutcankarce <br />
+LinkedIn Profile : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
 Software Technology : <br />
 [ Web Based Development ]
 + PHP and Laravel 9
