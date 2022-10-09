@@ -9,10 +9,10 @@ Software Technology : <br />
 + PHP and Laravel 9
 + PHP and WordPress 
 + PHP Codeigniter 3 and 4 Framework System 
-+ HTML5 AND CSS3
++ HTML5 and CSS3
 + CSS Framework Bootstrap4
 + JavaScript,jQuery,Ajax,Axios
-+ JavaScript Frontend Framework Vue.js
++ JavaScript Frontend Framework Vue.js,İnertia.js
 + Database System MYSQL + Laravel Eloquent ORM
 + Laravel Sanctum API etc.
 
