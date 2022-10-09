@@ -6,11 +6,11 @@ Contact Info : <br />
 LinkedIn Profile : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
 Software Technology : <br />
 [ Web Based Development ]
-+ PHP and Laravel 9
-+ PHP and WordPress 
++ PHP Laravel 9
++ PHP WordPress 
 + PHP Codeigniter 3 and 4 Framework System 
 + HTML5 and CSS3
-+ CSS Framework Bootstrap4
++ Design Framework Bootstrap 4 and TailwindCSS
 + JavaScript,jQuery,Ajax,Axios
 + JavaScript Frontend Framework Vue.js,İnertia.js
 + Database System MYSQL + Laravel Eloquent ORM
