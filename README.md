@@ -2,10 +2,10 @@
 
 Back-end PHP Developer [innovacraft](https://www.innovacraft.com) 
 
-Contact Info : <br />
-LinkedIn Profile : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
+İletişim : <br />
+LinkedIn Profil : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
 Software Technology : <br />
-[ Web Based Development ]
+[ Kullandığım Yazılım Dilleri ]
 + PHP Laravel 9
 + PHP WordPress 
 + PHP Codeigniter 3 and 4 Framework System 
@@ -16,7 +16,6 @@ Software Technology : <br />
 + Database System MYSQL + Laravel Eloquent ORM
 + Laravel Sanctum API etc.
 
-[ Project ]
+[ Projeler ]
 + innovacraft.com / Freelance Part-Time Work
-+ [ innovacraft CRM SaaS Project ]
-+ [ Active Project / innovacraft CRM Development Mode Laravel 9 and Vue.js 3 ]
++ [ innovacraft CRM SaaS Proje ]
