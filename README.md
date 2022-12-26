@@ -4,7 +4,6 @@ Back-end PHP Developer [innovacraft](https://www.innovacraft.com)
 
 İletişim : <br />
 LinkedIn Profil : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
-Software Technology : <br />
 [ Kullandığım Yazılım Dilleri ]
 + PHP Laravel 9
 + PHP WordPress 
