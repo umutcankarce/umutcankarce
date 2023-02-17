@@ -8,10 +8,9 @@ LinkedIn Profil : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
 + PHP Laravel 9
 + PHP WordPress 
 + PHP Codeigniter 3 and 4 Framework System 
-+ HTML5 and CSS3
-+ Design Framework Bootstrap 4 and TailwindCSS
++ HTML5 and CSS3 Bootstrap 4 and TailwindCSS 
 + JavaScript,jQuery,Ajax,Axios
-+ JavaScript Frontend Framework Vue.js,İnertia.js
++ JavaScript Frontend Framework Vue.js,İnertia.js,React.js
 + Database System MYSQL + Laravel Eloquent ORM
 + Laravel Sanctum API etc.
 
