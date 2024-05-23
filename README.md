@@ -1,7 +1,5 @@
 ### Hello, my Umut Can 👋
 
-Back-end PHP Developer [innovacraft](https://www.innovacraft.com) 
-
 İletişim : <br />
 LinkedIn Profil : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
 [ Kullandığım Yazılım Dilleri ]
@@ -16,6 +14,6 @@ LinkedIn Profil : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
 + Laravel Sanctum API etc.
 
 [ Projeler ]
-+ innovacraft.com / PHP Laravel Developer
++ [innovacraft](https://www.innovacraft.com)  / PHP Laravel Developer
 + innovacraft / Envanter Yönetim Sistemi
 
