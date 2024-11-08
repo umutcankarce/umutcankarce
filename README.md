@@ -1,16 +1,24 @@
-### Hello, my Umut Can 👋
+<h1 align="center">Hi 👋, I'm Umut Can</h1>
+<h3 align="center">PHP Developer</h3>
 
-İletişim : <br />
-LinkedIn Profil : [in/umutcankarce](https://linkedin.com/in/umutcankarce) <br />
-[ Kullandığım Yazılım Dilleri ]
-+ PHP 5 Yıl+ Deneyim
-+ PHP Laravel x10,x11
-+ Laravel API 
-+ PHP WordPress 
-+ PHP Codeigniter v3 ve v4
-+ HTML5 ve CSS3 Bootstrap ve TailwindCSS 
-+ JavaScript,jQuery,Ajax,Axios
-+ JavaScript Frontend Framework Vue.js,React.js
-+ Veri Tabanı MYSQL + Laravel ORM
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=umutcankarce&label=Profile%20views&color=0e75b6&style=flat" alt="umutcankarce" /> </p>
 
+- 🔭 I’m currently working on **INNOVACRAFT**
 
+- 🌱 I’m currently learning **Laravel,VueJs,ReactJs**
+
+- 👨‍💻 All of my projects are available at [https://innovacraft.com](https://innovacraft.com)
+
+- 📝 I regularly write articles on [https://innovacraft.com/blog](https://innovacraft.com/blog)
+
+- 📄 Know about my experiences [https://innovacraft.com](https://innovacraft.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/umutcankarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umutcankarce" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutcankarce&show_icons=true&locale=en" alt="umutcankarce" /></p>
