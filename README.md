@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umut Can</h1>
 <h3 align="center">PHP Developer</h3>
 
-- 🔭 I’m currently working on **INNOVACRAFT**
-
 - 🌱 I’m currently learning **Laravel,VueJs,ReactJs**
-
-- 👨‍💻 All of my projects are available at [https://innovacraft.com](https://innovacraft.com)
-
-- 📝 I regularly write articles on [https://innovacraft.com/blog](https://innovacraft.com/blog)
 
 - 📄 Know about my experiences [https://innovacraft.com](https://innovacraft.com)
 
